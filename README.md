@@ -1,6 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
-
-<p class="speech">A speech bubble</p>
 # Sobre mim
 ---
 <img align="left" alt="img" src="https://upload.wikimedia.org/wikipedia/en/a/ad/Fred_Flintstone.png" width="20%" height="auto" />
