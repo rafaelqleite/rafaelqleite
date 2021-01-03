@@ -7,7 +7,7 @@ Olá! Me chamo Rafael Quinteiro Leite, residente em Contagem-MG, Brasil. 🇧�
 * :man_student: Formado em Engenharia Elétrica com ênfase em Eletrônica de Potência pela UFMG (Universidade Federal de Minas Gerais).
 
 * :speech_balloon: Desde jovem (por volta de 12-14 anos) me interessei pela área de tecnologia.
-Ainda que como hobby, fiz cursos de Montagem de Computadores, Redes e até mesmo um pouco de programação - na época - a linguagem utlizada era Clipper / Dbasic.
+Ainda que como hobby, fiz cursos de Montagem de Computadores, Redes e até mesmo um pouco de programação - na época - a linguagem utilizada era Clipper / Dbasic.
 
 * :heart_eyes: Sou apaixonado  pela resolução de problemas por meio da programação e aproveito cada minuto disponível para me tornar um desenvolvedor melhor.
 ---
